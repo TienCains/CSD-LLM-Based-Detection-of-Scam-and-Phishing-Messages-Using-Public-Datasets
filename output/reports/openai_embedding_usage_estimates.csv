@@ -1,0 +1,7 @@
+embedding_model,split,estimated_tokens,estimated_cost_usd,embedding_seconds
+text-embedding-3-small,train_balanced,11728877,0.234578,191.122
+text-embedding-3-small,validation,4117249,0.082345,68.7485
+text-embedding-3-small,test_imbalanced,4002573,0.080051,63.8571
+text-embedding-3-large,train_balanced,11728877,1.524754,383.2362
+text-embedding-3-large,validation,4117249,0.535242,90.33
+text-embedding-3-large,test_imbalanced,4002573,0.520334,90.4671

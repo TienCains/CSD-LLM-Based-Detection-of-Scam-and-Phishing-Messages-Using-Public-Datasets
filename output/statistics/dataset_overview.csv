@@ -1,0 +1,2 @@
+dataset,rows,columns,label_0_legitimate,label_1_phishing_spam,raw_duplicate_text_rows,empty_text_rows
+CEAS_08 + Enron,68921,11,33103,35818,535,0

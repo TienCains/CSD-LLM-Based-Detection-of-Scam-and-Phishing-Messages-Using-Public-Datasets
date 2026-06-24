@@ -1,0 +1,6 @@
+item,value
+total_rows,68921.0
+phishing_or_spam_rows,35818.0
+legitimate_rows,33103.0
+median_word_count,117.0
+mean_word_count,252.2386210298748

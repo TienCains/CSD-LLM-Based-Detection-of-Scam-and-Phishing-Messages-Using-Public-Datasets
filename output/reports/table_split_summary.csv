@@ -1,0 +1,6 @@
+split,rows,label_0_legitimate,label_1_phishing_spam,label_1_rate
+processed_deduplicated,68385,32763,35622,0.5209037069532793
+train_unbalanced,41031,19657,21374,0.5209232044064244
+train_balanced,39314,19657,19657,0.5
+validation,13677,6553,7124,0.5208744607735615
+test_imbalanced,13677,6553,7124,0.5208744607735615
