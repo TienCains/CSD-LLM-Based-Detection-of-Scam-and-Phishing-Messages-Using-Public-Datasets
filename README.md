@@ -3,8 +3,7 @@
 This repository contains the notebook-based analysis pipeline for phishing and scam email detection using the CEAS_08 and Enron public datasets.
 Links are listed below:
 CEAS_08: https://zenodo.org/records/8339691
-Enron: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
-
+Enron: https://zenodo.org/records/8339691?preview_file=Enron.csv
 ## Project Structure
 
 - `00_setup_and_config.ipynb`: project paths, dependencies, and setup notes.
