@@ -1,6 +1,9 @@
 # CSD: LLM-Based Detection of Scam and Phishing Messages Using Public Datasets
 
 This repository contains the notebook-based analysis pipeline for phishing and scam email detection using the CEAS_08 and Enron public datasets.
+Links are listed below:
+CEAS_08: https://zenodo.org/records/8339691
+Enron: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
 
 ## Project Structure
 
